@@ -6,7 +6,7 @@ hailey93 is (or at least now *was*) a bot for trollbox and discord. it had a lot
 # how to install and run
 1. download source
 2. run npm install in the folder
-3. rune node main.js
+3. run node main.js
 
 # disclaimer
 the secret header for the trollbox side of hailey93 has been removed as it is...well....a secret. nsfw related text was also removed.
